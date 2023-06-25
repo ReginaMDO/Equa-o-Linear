@@ -1,1 +1,1 @@
-# Equa-o-Linear
+# Equação Linear
